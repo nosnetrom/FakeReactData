@@ -1,26 +1,26 @@
 [
     {
-        'id': '1',
-        'employeeFname':'J',
-        'employeeLname':'MoreTea',
-        'extension','x001',
-        'phone':'972.767.9546',
-        'text':'Lorem ipsum...'
+        "id": "1",
+        "employeeFname":"J",
+        "employeeLname":"MoreTea",
+        "extension","x001",
+        "phone":"972.767.9546",
+        "text":"Lorem ipsum..."
     },
     {
-        'id': '2',
-        'employeeFname':'Tonto',
-        'employeeLname':'Hahn',
-        'extension','x002',
-        'phone':'312.555.1212',
-        'text':'Dolor vincit...'
+        "id": "2",
+        "employeeFname":"Tonto",
+        "employeeLname":"Hahn",
+        "extension","x002",
+        "phone":"312.555.1212",
+        "text":"Dolor vincit..."
     },
     {
-        'id': '3',
-        'employeeFname':'Jor',
-        'employeeLname':'El',
-        'extension','x003',
-        'phone':'888.555.1212',
-        'text':'Cogito ergo sum.'
+        "id": "3",
+        "employeeFname":"Jor",
+        "employeeLname":"El",
+        "extension","x003",
+        "phone":"888.555.1212",
+        "text":"Cogito ergo sum."
     }
 ]
