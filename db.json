@@ -6,7 +6,7 @@
         'extension','x001',
         'phone':'972.767.9546',
         'text':'Lorem ipsum...'
-    }
+    },
     {
         'id': '2',
         'employeeFname':'Tonto',
@@ -14,7 +14,7 @@
         'extension','x002',
         'phone':'312.555.1212',
         'text':'Dolor vincit...'
-    }
+    },
     {
         'id': '3',
         'employeeFname':'Jor',
